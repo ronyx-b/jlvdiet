@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100%;
+}
+
+.bordered {
+  border: 1px solid black;
+}
+
+.w400 {
+  width: 400px;
+}
+
+.centered {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.padded {
+  padding: 5px;
+}
